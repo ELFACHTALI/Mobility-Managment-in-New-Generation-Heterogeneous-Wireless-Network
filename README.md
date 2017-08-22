@@ -1,4 +1,4 @@
-# Gestion de la Mobilité dans les réseaux hétérogènes de nouvelles générations
+# Gestion de la Mobilité dans les réseaux sans fils hétérogènes de nouvelles générations
 
 Ce projet présente les résultats de simulations des trois schémas de décision de transfert vertical que nous avons proposés pour optimiser l'efficacité du processus de transfert vertical dans les réseaux sans fil hétérogènes de nouvelles générations. Des versions améliorer des algorithmes de colonie de fourmis pour les domaines continus (ACOR) et de recherche tabou (Tabu-search) ainsi qu’une version d’ACOR avec adaptation de l’évaporation de la phéromone (ACOR APER) pour l’estimation de nécessité de transfert, la sélection de cible de transfert et la prise de décision du transfert.
 
